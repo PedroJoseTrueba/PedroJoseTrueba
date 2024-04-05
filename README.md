@@ -1,16 +1,19 @@
-### Hi there 👋
+# Pedro José Trueba - Data Scientist 📊
 
-<!--
-**PedroJoseTrueba/PedroJoseTrueba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Robot GIF](https://github.com/PedroJoseTrueba/PedroJoseTrueba/blob/main/robot-5401_256.gif)
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm Pedro José Trueba, a psychology graduate transitioning into Data Science after completing a Bootcamp at TripleTen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🐍 Proficient in Python for data manipulation and analysis.
+- 💾 Experienced in SQL for efficient data management.
+- 💻 Skilled in software development with Git and GitHub.
+- 📊 Strong background in data analysis and visualization.
+- 🤖 Interest in machine learning, including classification and regression.
+
+## Current Focus
+
+I'm currently working on personal and professional projects to further develop my skills in data science, focusing on continuous learning and exploring new opportunities.
+
+Feel free to explore my repositories and reach out for collaboration or discussion on topics related to data science! 🚀
