@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Pedro Jose Trueba!
-A passionate Data Scientist with a background in Applied Cognitive Psychology and extensive experience in customer service. I love transforming data into actionable insights using machine learning.
+Data Engineer with hands-on experience in data pipeline orchestra5on, data modeling, and ELT processes. Proficient in dbt, SQL, Python, Dagster, and BigQuery, with exper5se in data transformation, automation, and scalable infrastructure. Passionate abouto optmizing data workflows, ensuring data quality, and enabling real-time analytics. 
 
 <p align="center">
   <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" alt="Data Science GIF" width="300" />
@@ -27,15 +27,12 @@ A passionate Data Scientist with a background in Applied Cognitive Psychology an
 - [Mobile Plan Recommendation Model for Megaline](https://github.com/PedroJoseTrueba/Modelo_de_Clasificacion_para_la_Recomendacion_de_Planes_Moviles_de_Megaline): Classification model for recommending mobile plans at Megaline.📱
 
 
-## 💼 Professional Experience
-- **Team Manager & Customer Service Agent** at HBO Spain
-- **Call Center Agent** at Alliançe Française, Quito, Ecuador
-- **Lockers and Games Associate** at Cedar Point Amusement Park, Ohio, USA
 
 ## 📚 Education
 - **Master’s degree in Applied Cognitive Psychology** from Utrecht University
 - **Undergraduate degree in Psychology** from University of Barcelona
 - **Data Science Bootcamp** at TripleTen
+- **Data Science Pre-master at UOC**
 
 ## 📫 Contact
 - **Email:** [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrotrueba97@gmail.com)
